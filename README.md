@@ -4,3 +4,5 @@ Plugin de JQuery para hacer que tu video te acompañe mientras vas bajando en un
 Needs JQuery 3.X
 
 @petrizcelaya
+
+https://petrizcelaya.github.io/Plugin-Scroll-Video/
